@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Foreground (main box) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#d9d9d9"/>
+            <corners android:radius="50dp"/> <!-- Apply consistent radius -->
+        </shape>
+    </item>
+
+</layer-list>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853765945687",
+    "project_id": "links-af11f",
+    "storage_bucket": "links-af11f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853765945687:android:e3b926fcf64f45bb49e612",
+        "android_client_info": {
+          "package_name": "com.example.links_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbAc1q40sFkodJuthBjNxi9_x-3vhOG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
